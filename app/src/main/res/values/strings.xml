@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LESSON4.1</string>
+    <string name="app_name">LESSON4.2</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="froyo_is_premium_self_serve_frozen_yogurt_text">FroYo is premium self-serve frozen yogurt.</string>
     <string name="droid_desserts_text">Droid Desserts</string>
@@ -25,4 +25,10 @@
     <string name="same_day_messenger_service_label">Same day messenger service:</string>
     <string name="next_day_ground_delivery_label">Next day ground delivery</string>
     <string name="pick_up_label">Pick up</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
 </resources>
